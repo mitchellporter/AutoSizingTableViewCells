@@ -1,0 +1,18 @@
+PODS:
+  - FLEX (2.3.0)
+  - HeapInspector (0.3):
+    - HeapInspector/no-arc (= 0.3)
+  - HeapInspector/no-arc (0.3)
+  - Reveal-iOS-SDK (1.6.2)
+
+DEPENDENCIES:
+  - FLEX (~> 2.3)
+  - HeapInspector
+  - Reveal-iOS-SDK
+
+SPEC CHECKSUMS:
+  FLEX: ba80ea13d2c784e85e616137fd4eff164781e364
+  HeapInspector: cad61d46d85a2fa08e7f9ee9a37c139ff1664a93
+  Reveal-iOS-SDK: e2250b3c155bcfac53ae223ddc1f76d08f206c33
+
+COCOAPODS: 0.39.0
